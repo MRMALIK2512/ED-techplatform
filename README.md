@@ -70,8 +70,8 @@ The StudyNotion platform's API is designed following the REST architectural styl
 
 To install the StudyNotion platform, follow these steps:
 
-- Clone the repository: `git clone https://github.com/ash956901/StudyNotion`
-- Navigate to the project directory: `cd StudyNotion`
+- Clone the repository: `git clone https://github.com/MRMALIK2512/ED-techplatform.git`
+- Navigate to the project directory: `cd STUDYNOTION`
 - Install backend dependencies: `cd Server && npm install`
 - Install frontend dependencies: `cd .. && npm install`
 
@@ -106,23 +106,21 @@ To install the StudyNotion platform, follow these steps:
 
 ## Preview
 
-You can preview the StudyNotion platform at [https://studynotion-frontend.vercel.app/](https://study-notion-seven-nu.vercel.app/)
+[![Study Notion](https://i.ibb.co/qgS4v33/work1.png)]
 
-[![Study Notion](https://i.ibb.co/qgS4v33/work1.png)](https://study-notion-seven-nu.vercel.app/)
+[![Study Notion](https://i.ibb.co/4WWK2DS/Screenshot-from-2024-05-19-00-19-45.png)]
 
-[![Study Notion](https://i.ibb.co/4WWK2DS/Screenshot-from-2024-05-19-00-19-45.png)](https://study-notion-seven-nu.vercel.app/)
+[![Study Notion](https://i.ibb.co/yScrnph/Screenshot-from-2024-05-19-00-19-53.png)]
 
-[![Study Notion](https://i.ibb.co/yScrnph/Screenshot-from-2024-05-19-00-19-53.png)](https://study-notion-seven-nu.vercel.app/)
-
-[![Study Notion](https://i.ibb.co/Fb72r3p/Screenshot-from-2024-05-19-00-20-49.png)](https://study-notion-seven-nu.vercel.app/)
+[![Study Notion](https://i.ibb.co/Fb72r3p/Screenshot-from-2024-05-19-00-20-49.png)]
 
 
-[![Study Notion](https://i.ibb.co/M7nd49Z/Screenshot-from-2024-05-19-00-20-06.png)](https://study-notion-seven-nu.vercel.app/)
+[![Study Notion](https://i.ibb.co/M7nd49Z/Screenshot-from-2024-05-19-00-20-06.png)]
 
 
-[![Study Notion](https://i.ibb.co/r28npyx/Screenshot-from-2024-05-19-00-21-29.png)](https://study-notion-seven-nu.vercel.app/)
+[![Study Notion](https://i.ibb.co/r28npyx/Screenshot-from-2024-05-19-00-21-29.png)]
 
-[![Study Notion](https://i.ibb.co/82jCqMy/Screenshot-from-2024-05-19-00-21-49.png)](https://study-notion-seven-nu.vercel.app/)
+[![Study Notion](https://i.ibb.co/82jCqMy/Screenshot-from-2024-05-19-00-21-49.png)]
 
 ## Dependencies
 
@@ -176,7 +174,5 @@ Contributions are welcome If you have any suggestions or find any issues, please
 
 ## Contact
 
-- Email: [ak956901@gmail.com](mailto:ak956901@gmail.com)
-- LinkedIn: [https://in.linkedin.com/in/ashutosh-kumar-170242189](https://in.linkedin.com/in/ashutosh-kumar-170242189)
-- Website: [Ashutosh Kumar](https://portfolio-five-rho-46.vercel.app/)
+- Email: [tabishmalik529@gmail.com](mailto:tabishmalik529@gmail.com)
 
