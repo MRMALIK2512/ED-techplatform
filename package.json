@@ -33,10 +33,10 @@
     "style-loader": "^4.0.0",
     "swiper": "^9.4.1",
     "video-react": "^0.16.0",
-    "web-vitals": "^2.1.4",
-    "homepage": "https://MRMALIK2512.github.io/ED-techplatform"
+    "web-vitals": "^2.1.4"
   },
   "repository": {
+    "homepage": "https://MRMALIK2512.github.io/ED-techplatform/",
     "type": "git",
     "url": "git+https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git"
   },
@@ -72,6 +72,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "tailwindcss": "^3.2.7"
   }
 }
